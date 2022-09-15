@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/dtheran1/landing_page/issues"
   },
-  "homepage": "https://github.com/dtheran1/landing_page#readme"
+  "homepage": "https://github.com/dtheran1/landing_page#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
 }
